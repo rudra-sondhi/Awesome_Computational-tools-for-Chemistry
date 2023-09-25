@@ -2,7 +2,7 @@
   Awesome Computational Tools For Chemistry 
 </h1>
 
-A list of resources for computational tools for Analytical Chemistry - using Machine learning, Cheminformatics, and Materials.
+Resources for computational tools for Analytical Chemistry - using Machine learning, Cheminformatics, and Materials.
 
 <a href="https://github.com/janosh/tikz/tree/main/assets/normalizing-flow](https://github.com/RodrigoAVargasHdz/CHEM-4PB3">
    <picture>
