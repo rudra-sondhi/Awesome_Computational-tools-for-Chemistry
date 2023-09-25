@@ -2,7 +2,7 @@
   Awesome Computational Tools For Chemistry 
 </h1>
 
-A list of resources for computational tools for Analytical Chemistry - using Machine learning, Cheminformatics, and Materials.
+Resources for computational tools for Analytical Chemistry - using Machine learning, Cheminformatics, and Materials.
 
 <a href="https://github.com/janosh/tikz/tree/main/assets/normalizing-flow](https://github.com/RodrigoAVargasHdz/CHEM-4PB3">
    <picture>
@@ -12,6 +12,9 @@ A list of resources for computational tools for Analytical Chemistry - using Mac
 </a>
 
 <photo-cap-1>_Figure inspired by [iwatobipen](https://iwatobipen.wordpress.com/author/iwatobipen/). [View source](https://iwatobipen.wordpress.com/2023/09/03/visualize-result-of-molshap-rdkit-chemoinformatics-memo/)._</photo-cap-1>
+
+
+## <img src="Assests/img_toc.svg" alt="Contents" height="18px"> &nbsp;Table of Contents
 
 
 
