@@ -14,4 +14,7 @@ Resources for computational tools for Analytical Chemistry - using Machine learn
 <photo-cap-1>_Figure inspired by [iwatobipen](https://iwatobipen.wordpress.com/author/iwatobipen/). [View source](https://iwatobipen.wordpress.com/2023/09/03/visualize-result-of-molshap-rdkit-chemoinformatics-memo/)._</photo-cap-1>
 
 
+## <img src="Assests/img_toc.svg" alt="Contents" height="18px"> &nbsp;Table of Contents
+
+
 
