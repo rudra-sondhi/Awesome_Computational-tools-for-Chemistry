@@ -2,7 +2,10 @@
   Awesome Computational Tools For Chemistry 
 </h1>
 
+[![Git Hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoAVargasHdz/CHEM-4PB3)
+
 Resources for computational tools for Analytical Chemistry - using Machine learning, Cheminformatics, and Materials.
+
 
 <a href="https://github.com/janosh/tikz/tree/main/assets/normalizing-flow](https://github.com/RodrigoAVargasHdz/CHEM-4PB3">
    <picture>
