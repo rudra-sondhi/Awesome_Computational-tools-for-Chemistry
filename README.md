@@ -15,7 +15,7 @@ Resources for computational tools for Analytical Chemistry - using Machine learn
 
 
 ## <img src="Assests/img_toc.svg" alt="Contents" height="18px"> &nbsp;Table of Contents
-1. [🖥️ Cheminformatic - Code Tutorials ](#-cheminformatic---code-tutorials-)
+1. [🖥️ Cheminformatic - Code Tutorials](#-cheminformatic--code-tutorials)
 1. [🖲️ Neural Networks](#-neural-networks)
 1. [📄 Blogs](#-blogs)
 1. [🧪 Quantum Chemistry](#-quantum-chemistry)
