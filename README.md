@@ -2,13 +2,8 @@
   Awesome Tools For Chemistry 
 </h1>
 
-<<<<<<< HEAD
-Resources for Chemistry - using Machine learning, Cheminformatics, and Materials. Learn more about the advancments, new ideas, and recommendations in Cheminformatics, Nueral Network, Quantum Chemistry, and LLMs.
-=======
-[![Git Hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoAVargasHdz/CHEM-4PB3)
 
-Resources for computational tools for Analytical Chemistry - using Machine learning, Cheminformatics, and Materials.
->>>>>>> 307b365a4a1ed090ff87ce4f6aeff5ce9565559d
+Resources for Chemistry - using Machine learning, Cheminformatics, and Materials. Learn more about the advances, new ideas, and recommendations in Cheminformatics, Neural Networks, Quantum Chemistry, and LLMs.
 
 
 <a href="https://github.com/janosh/tikz/tree/main/assets/normalizing-flow](https://github.com/RodrigoAVargasHdz/CHEM-4PB3">
@@ -19,17 +14,18 @@ Resources for computational tools for Analytical Chemistry - using Machine learn
 </a>
 
 <br>
+<br>
 
 > **_Collection from:_**  [Dr. Rodrigo A. Vargas-Hernandez, PhD](https://www.linkedin.com/in/rodrigo-a-vargas-hernandez-591368141/?originalSubdomain=ca) & team. 
 
-## <img src="assets/img_toc.svg" alt="Contents" height="18px"> &nbsp;Table of Contents
-1. [🖥️ Cheminformatic - Code Tutorials](#-cheminformatic--code-tutorials)
+## 📚 Table of Contents
+1. [🖥️ Cheminformatic - Code Tutorials](#-cheminformatic---code-tutorials)
 1. [🖲️ Neural Networks](#-neural-networks)
 1. [📄 Blogs](#-blogs)
 1. [🧪 Quantum Chemistry](#-quantum-chemistry)
 1. [📓 LLMs and Fine Tuning](#-llms-and-fine-tuning)
 
-## 🖥️ Cheminformatic - Code Tutorials 
+## 🖥️ Cheminformatic - Code Tutorials
 
 - [SAR Analysis ](https://twitter.com/wpwalters/status/1706315441973387465?s=12&t=EUIAqM_xR5pqivbEIKnehA) by Patrick Walters <br>
   <details>
