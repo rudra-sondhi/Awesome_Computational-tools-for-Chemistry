@@ -18,9 +18,6 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
 
 > **_Collection from:_**  [Dr. Rodrigo A. Vargas-Hernandez, PhD](https://www.linkedin.com/in/rodrigo-a-vargas-hernandez-591368141/?originalSubdomain=ca), [Rudra Sondhi](https://www.linkedin.com/in/rudra-sondhi/), and team. <br>
 
-or <br>
-
-> **_Collection from:_**  [Dr. Rodrigo A. Vargas-Hernandez, PhD](https://www.linkedin.com/in/rodrigo-a-vargas-hernandez-591368141/?originalSubdomain=ca) and team. <br>
 
 ## 📚 Table of Contents
 1. [🖥️ Cheminformatic - Code Tutorials](#-cheminformatic---code-tutorials)
