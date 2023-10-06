@@ -22,6 +22,7 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
 ## 📚 Table of Contents
 1. [🖥️ Cheminformatic - Code Tutorials](#-cheminformatic---code-tutorials)
 1. [🖲️ Neural Networks](#-neural-networks)
+1. [💡 RDKit](#-RDKit)
 1. [📄 Blogs](#-blogs)
 1. [🧪 Quantum Chemistry](#-quantum-chemistry)
 1. [📓 LLMs and Fine Tuning](#-llms-and-fine-tuning)
@@ -47,11 +48,43 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   A course on Machine Learning in Materials Science, covering topics from basic ML (Machine Learning) methods to real-world applications in materials and process optimization.
 </details>
 
-
-- [Deep learning for molecules & materials](https://dmol.pub/index.html) by -NA- <br>
+- [Deep learning for molecules & materials](https://dmol.pub/index.html) by Andrew D. White <br>
   <details>
   <summary>Summary</summary>
   A resource that delves into the integration of deep learning techniques with chemistry and materials science, featuring practical examples and foundational machine learning concepts.
+</details>
+
+- [Demos for the PySCF Workshop](https://github.com/jamesETsmith/2022_simons_collab_pyscf_workshop) by Hong-Zhou Ye, Verena Neufeld, and James Smith. <br>
+  <details>
+  <summary>Summary</summary>
+  These demos are part of the materials for the PySCF workshop on June 17-19th, 2022, which is part of the 2022 Many Electron Collaboration Summer School.
+</details>
+
+- [Variational autoencoder (VAE) - Framework and Code](https://github.com/aspuru-guzik-group/chemical_vae/tree/main) by Benjamin Sanchez-Lengeling. <br>
+  <details>
+  <summary>Summary</summary>
+  The repository outlines a variational autoencoder (VAE) for molecular SMILES. Enabling joint property prediction to optimize latent space, using the ZINC dataset.
+</details>
+
+- [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00572) by Gómez-Bombarelli et al. <br>
+  <details>
+  <summary>Summary</summary>
+  The authors report a deep neural network-based method for converting discrete molecular representations to a continuous vector space, enabling efficient compound optimization.
+</details>
+
+
+## 💡 RDKit
+
+- [RDKit Tutorials](https://github.com/rdkit/rdkit-tutorials) by Greg Landrum <br>
+  <details>
+  <summary>Summary</summary>
+  This initiative provides a series of instructional tutorials centred on the RDKit software library, and each tutorial is validated against the latest version of RDKit using the Travis Continuous Integration (CI) platform.
+</details>
+
+- [FingerprintGenerator tutorial](https://greglandrum.github.io/rdkit-blog/posts/2023-01-18-fingerprint-generator-tutorial.html) by RDKit Blogs <br>
+  <details>
+  <summary>Summary</summary>
+  The blog post discusses the enhancement of RDKit's fingerprinting algorithms through the introduction of a new API in 2018, aiming to standardize the interface and contribute to future documentation.
 </details>
 
 
@@ -62,6 +95,8 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   <summary>Summary</summary>
   The text explores the effectiveness of neural networks, attributing their success to their architecture, adaptability, and learning algorithms across various fields.
 </details>
+
+
 
 
 ## 📄 Blogs
@@ -85,7 +120,13 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
 - [eChem: A notebook exploration of quantum chemistry](https://chemrxiv.org/engage/chemrxiv/article-details/62d1764827b1e447bb3c47b1) by Fransson et al. <br>
   <details>
   <summary>Summary</summary>
-  The eChem project focuses on the underlying theory of computational chemistry, including molecular modeling and visualization, as well as workflows for simulating embedded molecular systems.
+  The eChem project focuses on the underlying theory of computational chemistry, including molecular modelling and visualization, as well as workflows for simulating embedded molecular systems.
+</details>
+
+- [SchNetPack documentation](https://schnetpack.readthedocs.io/en/stable/index.html) by SchNetPack Team <br>
+  <details>
+  <summary>Summary</summary>
+  SchNetPack is a toolbox for the development and application of deep neural networks to the prediction of potential energy surfaces and other quantum-chemical properties of molecules and materials.
 </details>
 
 
