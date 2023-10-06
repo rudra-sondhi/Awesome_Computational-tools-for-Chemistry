@@ -3,7 +3,7 @@
 </h1>
 
 
-Resources for Chemistry - using Machine learning, Cheminformatics, and Materials. Learn more about the advances, new ideas, and recommendations in Cheminformatics, Neural Networks, Quantum Chemistry, and LLMs.
+Resources for Chemistry - using Machine learning, Cheminformatics, and Materials. Learn more about the advances and open-source resources in Cheminformatics, Neural Networks, Quantum Chemistry, Computational Chemical Biology and LLMs.
 
 
 <a href="https://github.com/janosh/tikz/tree/main/assets/normalizing-flow](https://github.com/RodrigoAVargasHdz/CHEM-4PB3">
