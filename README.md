@@ -21,10 +21,12 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
 
 ## 📚 Table of Contents
 1. [🖥️ Cheminformatic - Code Tutorials](#-cheminformatic---code-tutorials)
+1. [⚗️ SMILES and SELFIES](#-smiles-and-selfies)
 1. [🖲️ Neural Networks](#-neural-networks)
 1. [💡 RDKit](#-RDKit)
 1. [📄 Blogs](#-blogs)
 1. [🧪 Quantum Chemistry](#-quantum-chemistry)
+1. [🧬 Computational Chemical Biology](#-computational-chemical-biology)
 1. [📓 LLMs and Fine Tuning](#-llms-and-fine-tuning)
 
 ## 🖥️ Cheminformatic - Code Tutorials
@@ -33,13 +35,6 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   <details>
   <summary>Summary</summary>
   Two new Jupyter notebooks on Matched Molecular Pairs and Matched Molecular Series have been added to enrich the SAR (Structure-Activity Relationship) Analysis educational resource.
-</details>
-
-
-- [Chemoinformatics and Machine Learning for Drug Discovery](https://github.com/Aouidate/Chemoinformatics-tutos/tree/master) by Aouidate <br>
-  <details>
-  <summary>Summary</summary>
-  A compilation of tutorials on chemoinformatics and machine learning for drug discovery, featuring hands-on Jupyter notebooks.
 </details>
 
 - [Machine learning for materials: From PCA to ChatGPT](https://github.com/SergeiVKalinin/MSE_Fall2023) by Sergei V Kalinin<br>
@@ -60,6 +55,8 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   These demos are part of the materials for the PySCF workshop on June 17-19th, 2022, which is part of the 2022 Many Electron Collaboration Summer School.
 </details>
 
+
+## ⚗️ SMILES and SELFIES
 - [Variational autoencoder (VAE) - Framework and Code](https://github.com/aspuru-guzik-group/chemical_vae/tree/main) by Benjamin Sanchez-Lengeling. <br>
   <details>
   <summary>Summary</summary>
@@ -71,6 +68,7 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   <summary>Summary</summary>
   The authors report a deep neural network-based method for converting discrete molecular representations to a continuous vector space, enabling efficient compound optimization.
 </details>
+
 
 
 ## 💡 RDKit
@@ -96,6 +94,11 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   The text explores the effectiveness of neural networks, attributing their success to their architecture, adaptability, and learning algorithms across various fields.
 </details>
 
+- [GAME-Net - Fast Evaluation of the Adsorption Energy of Organic Molecules on Metals via Graph Neural Networks](http://game-net.iochem-bd.org/index.html) by S. Pablo García et al. <br>
+  <details>
+  <summary>Summary</summary>
+  The GAME-Net platform provides rapid evaluation of the adsorption energy of organic molecules on metals via Graph Neural Networks, aimed at advancing surface chemistry research.
+</details>
 
 
 
@@ -129,6 +132,18 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   SchNetPack is a toolbox for the development and application of deep neural networks to the prediction of potential energy surfaces and other quantum-chemical properties of molecules and materials.
 </details>
 
+## 🧬 Computational Chemical Biology
+- [Chemoinformatics and Machine Learning for Drug Discovery](https://github.com/Aouidate/Chemoinformatics-tutos/tree/master) by Aouidate <br>
+  <details>
+  <summary>Summary</summary>
+  A compilation of tutorials on chemoinformatics and machine learning for drug discovery, featuring hands-on Jupyter notebooks.
+</details>
+
+- [Diffusion Models in Generative Chemistry for Drug Design](https://medium.com/@cch57/exploring-the-promise-of-generative-models-in-chemistry-an-introduction-to-diffusion-models-31530e9d1dcb) by Charlie Harris <br>
+  <details>
+  <summary>Summary</summary>
+  The article offers a technical overview of recent advancements in generative models for small molecule drug design, specifically through diffusion models, aiming to bridge the gap between AI trends and Biochemistry.
+</details>
 
 ## 📓 LLMs and Fine Tuning
 
@@ -137,6 +152,7 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   <summary>Summary</summary>
   The study evaluates the effectiveness of fine-tuning GPT-3 for predicting electronic and functional properties of organic molecules, focusing on the model's resilience to information loss and noise.
 </details>
+
 
 
 
