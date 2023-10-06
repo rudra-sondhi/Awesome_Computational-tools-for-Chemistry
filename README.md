@@ -69,6 +69,12 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   The authors report a deep neural network-based method for converting discrete molecular representations to a continuous vector space, enabling efficient compound optimization.
 </details>
 
+- [Self-Referencing Embedded Strings (SELFIES) - Documentation](https://github.com/aspuru-guzik-group/selfies) by Mario Krenn et al. <br>
+  <details>
+  <summary>Summary</summary>
+  The SELFIES project by the Aspuru-Guzik group offers a robust representation of semantically constrained graphs, particularly for molecules in chemistry, aiming to serve as direct input into machine learning models for generating syntactically and semantically valid molecular graphs.
+</details>
+
 
 
 ## 💡 RDKit
