@@ -29,6 +29,7 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
 1. [🧬 Computational Chemical Biology](#-computational-chemical-biology)
 1. [📓 LLMs and Fine Tuning](#-llms-and-fine-tuning)
 1. [📊 Computational Statistics](#-computational-statistics)
+1. [📙 Data Sources](#-data-sources)
 
 ## 🖥️ Cheminformatic - Code Tutorials
 
@@ -74,6 +75,18 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   <details>
   <summary>Summary</summary>
   The SELFIES project by the Aspuru-Guzik group offers a robust representation of semantically constrained graphs, particularly for molecules in chemistry, aiming to serve as direct input into machine learning models for generating syntactically and semantically valid molecular graphs.
+</details>
+
+- [Comparing Molecular Patterns Using the Example of SMARTS: Applications and Filter Collection Analysis](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00249) by Emanuel S. R. Ehmki et al. <br>
+  <details>
+  <summary>Summary</summary>
+  The recent study introduces SMARTScompare, an algorithm for comparing chemical patterns in SMARTS format, and applies it to analyze various SMARTS filter sets used in high-throughput screening, revealing pattern redundancies and hierarchical consistencies.
+</details>
+
+- [Comparing Molecular Patterns Using the Example of SMARTS: Applications and Filter Collection Analysis](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0295-6) by Nikolay Kochev et al. <br>
+  <details>
+  <summary>Summary</summary>
+  Ambit-SMIRKS is an open-source software that serves as an extension of Ambit-SMARTS, offering functionalities such as chemical structure transformation and reaction searching through the SMIRKS language and The Chemistry Development Kit (CDK). 
 </details>
 
 
@@ -152,6 +165,12 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   The article offers a technical overview of recent advancements in generative models for small molecule drug design, specifically through diffusion models, aiming to bridge the gap between AI trends and Biochemistry.
 </details>
 
+- [Diffusion Models in Generative Chemistry for Drug Design](https://medium.com/@cch57/exploring-the-promise-of-generative-models-in-chemistry-an-introduction-to-diffusion-models-31530e9d1dcb) by Charlie Harris <br>
+  <details>
+  <summary>Summary</summary>
+  The article offers a technical overview of recent advancements in generative models for small molecule drug design, specifically through diffusion models, aiming to bridge the gap between AI trends and Biochemistry.
+</details>
+
 ## 📓 LLMs and Fine Tuning
 
 - [Fine-tuning GPT-3 for organic molecules](https://chemrxiv.org/engage/chemrxiv/article-details/64e4dba0dd1a73847f4dc904) by Xie et al. <br>
@@ -172,6 +191,12 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   The article provides a systematic guide for fine-tuning generative language models for enterprise use, detailing key steps from data curation to model deployment.
 </details>
 
+- [How to Validate OpenAI GPT Model Performance with Text Summarization](https://towardsdatascience.com/how-to-validate-openai-gpt-model-performance-with-text-summarization-298978fea764) by Mark Chen. <br>
+  <details>
+  <summary>Summary</summary>
+  The article from a machine learning engineer at Kolena delivers a comprehensive evaluation of GPT models for abstractive text summarization, emphasizing performance metrics, ROI, and ethical considerations in model deployment.
+</details>
+
 ## 📊 Computational Statistics
 
 - [Ridge Regression in Machine Learning ](https://twitter.com/geostatsguy/status/1713916015648592223?s=12&t=EUIAqM_xR5pqivbEIKnehA) by Michael Pyrcz <br>
@@ -179,6 +204,14 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   <summary>Summary</summary>
   In the Machine Learning course, the instructor utilizes ridge regression as a tool to explore hyperparameter tuning, regularization, and L1 vs. L2 norms, complemented by an interactive Python dashboard.
 </details>
+
+## 📙 Data Sources
+- [ChemDB Cheminformatics Portal](https://cdb.ics.uci.edu/cgibin/ReactivitiesDatasetsWeb.html) by University of California, Irvine <br>
+  <details>
+  <summary>Summary</summary>
+  The data source provides metrics on electrophilicity and nucleophilicity through methyl anion and cation affinities, respectively, as well as a test set of 100 reaction mechanisms.
+</details>
+
 
 
 
