@@ -160,6 +160,18 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   The study evaluates the effectiveness of fine-tuning GPT-3 for predicting electronic and functional properties of organic molecules, focusing on the model's resilience to information loss and noise.
 </details>
 
+- [GPT3 for molecular and Materials Design and Discoverys](https://github.com/kjappelbaum/gpt3forchem) by Kevin M Jablonka. <br>
+  <details>
+  <summary>Summary</summary>
+  In the GitHub repository, the project utilizes GPT-3 for chemical informatics, producing validated SMILES notations and metrics such as KL divergence and Frechet ChemNet distance.
+</details>
+
+- [Creating A Custom Fine-Tuned Model With OpenAI’s GPT-3 Language API](https://cobusgreyling.medium.com/creating-a-custom-fine-tuned-model-with-openais-gpt-3-language-api-a847364548b6) by Cobus Greyling. <br>
+  <details>
+  <summary>Summary</summary>
+  The article provides a systematic guide for fine-tuning generative language models for enterprise use, detailing key steps from data curation to model deployment.
+</details>
+
 ## 📊 Computational Statistics
 
 - [Ridge Regression in Machine Learning ](https://twitter.com/geostatsguy/status/1713916015648592223?s=12&t=EUIAqM_xR5pqivbEIKnehA) by Michael Pyrcz <br>
