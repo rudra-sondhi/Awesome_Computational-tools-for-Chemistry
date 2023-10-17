@@ -28,6 +28,7 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
 1. [🧪 Quantum Chemistry](#-quantum-chemistry)
 1. [🧬 Computational Chemical Biology](#-computational-chemical-biology)
 1. [📓 LLMs and Fine Tuning](#-llms-and-fine-tuning)
+1. [📊 Computational Statistics](#-computational-statistics)
 
 ## 🖥️ Cheminformatic - Code Tutorials
 
@@ -159,7 +160,13 @@ Resources for Chemistry - using Machine learning, Cheminformatics, and Materials
   The study evaluates the effectiveness of fine-tuning GPT-3 for predicting electronic and functional properties of organic molecules, focusing on the model's resilience to information loss and noise.
 </details>
 
+## 📊 Computational Statistics
 
+- [Ridge Regression in Machine Learning ](https://twitter.com/geostatsguy/status/1713916015648592223?s=12&t=EUIAqM_xR5pqivbEIKnehA) by Michael Pyrcz <br>
+  <details>
+  <summary>Summary</summary>
+  In the Machine Learning course, the instructor utilizes ridge regression as a tool to explore hyperparameter tuning, regularization, and L1 vs. L2 norms, complemented by an interactive Python dashboard.
+</details>
 
 
 
