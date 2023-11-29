@@ -1,5 +1,5 @@
 <h1 align="center">
-  Awesome Tools For Chemistry 
+  Resources for Computational Chemistry  
 </h1>
 
 
